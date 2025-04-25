@@ -6,8 +6,6 @@ My name is Kashish and I work as a MLOps engineer at Aftershoot. My primary prog
 [![Gmail Badge](https://img.shields.io/badge/-kashkumawat9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kashkumawat9@gmail.com)](mailto:kashkumawat9@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumawat1503&label=Profile%20views&color=0e75b6&style=flat" alt="kumawat1503" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumawat1503" alt="kumawat1503" /></a> </p>
-
 - 🔭 I’m currently working on **Deterministic training**
 
 - 💬 Ask me about **Python, C++, Data Structures and Algorithms**
