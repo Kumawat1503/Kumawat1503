@@ -1,6 +1,5 @@
-# Hello, I'm Kashish <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hi, I'm Kashish <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<h1 align="center">Hi 👋, I'm Kashish Kumawat</h1>
 <h3 align="center">A passionate ML engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumawat1503&label=Profile%20views&color=0e75b6&style=flat" alt="kumawat1503" /> </p>
