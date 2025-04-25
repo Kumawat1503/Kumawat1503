@@ -1,3 +1,5 @@
+# Hello there, I'm Achintya <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
 <h1 align="center">Hi 👋, I'm Kashish Kumawat</h1>
 <h3 align="center">A passionate ML engineer from India</h3>
 
