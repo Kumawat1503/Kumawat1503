@@ -1,6 +1,6 @@
 # Hi, I'm Kashish <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<h3 align="left">My name is Kashish and I work as a MLOps engineer at Aftershoot. My primary programming languages are Go, Dart, and Python. In my free time, I enjoy blogging and traveling. Feel free to connect with me on my social media platforms to learn more. </h3>
+<h3 align="left">My name is Kashish and I work as a MLOps engineer at Aftershoot. My primary programming languages are Python and C++. In my free time, I enjoy playing chess and traveling. Feel free to connect with me on my social media platforms. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumawat1503&label=Profile%20views&color=0e75b6&style=flat" alt="kumawat1503" /> </p>
 
